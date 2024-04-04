@@ -12,7 +12,7 @@ rospy.init_node(publisherNodename, anonymous=True)
 publisher = rospy.Publisher(topicName, Image, queue_size=60)
 rate = rospy.Rate(30)
 
-videoCaptureObject = cv2.VideoCapture(2)
+videoCaptureObject = cv2.VideoCapture(3)
 bridgeObject = CvBridge()
 
 while not rospy.is_shutdown():

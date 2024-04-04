@@ -1,0 +1,7 @@
+<launch>
+    <!-- Launch node1 -->
+    <node name="camera_sensor_publisher" pkg="ros_opencv" type="camera_publisher.py" output="screen"/>
+
+    <!-- Launch node2 -->
+    <node name="camera_sensor_subscriber" pkg="ros_opencv" type="camera_subscriber.py" output="screen"/>
+</launch>

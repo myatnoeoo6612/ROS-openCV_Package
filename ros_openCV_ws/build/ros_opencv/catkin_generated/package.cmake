@@ -1,6 +1,6 @@
 set(_CATKIN_CURRENT_PACKAGE "ros_opencv")
 set(ros_opencv_VERSION "0.0.0")
-set(ros_opencv_MAINTAINER "myat <myat@todo.todo>")
+set(ros_opencv_MAINTAINER "myat <myatnoeoo772985799@gmail.com>")
 set(ros_opencv_PACKAGE_FORMAT "2")
 set(ros_opencv_BUILD_DEPENDS "cpp" "cv_bridge" "image_transport" "ros" "rospy" "sensor_msgs" "std_msgs")
 set(ros_opencv_BUILD_EXPORT_DEPENDS "cpp" "cv_bridge" "image_transport" "ros" "rospy" "sensor_msgs" "std_msgs")
