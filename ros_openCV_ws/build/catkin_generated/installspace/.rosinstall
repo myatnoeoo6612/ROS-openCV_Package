@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/myat/ros_openCV_ws/install/setup.sh

@@ -1,0 +1,2 @@
+ros_opencv
+-DCATKIN_DEVEL_PREFIX=/home/myat/ros_openCV_ws/devel -DCMAKE_INSTALL_PREFIX=/home/myat/ros_openCV_ws/install -G Unix Makefiles
